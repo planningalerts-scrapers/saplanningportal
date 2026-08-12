@@ -43,12 +43,12 @@ GEM
     net-http-persistent (4.0.8)
       connection_pool (>= 2.2.4, < 4)
     nkf (0.3.0)
-    nokogiri (1.17.2)
+    nokogiri (1.19.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    nokogiri (1.17.2-arm64-darwin)
+    nokogiri (1.19.4-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.17.2-x86_64-linux)
+    nokogiri (1.19.4-x86_64-linux-gnu)
       racc (~> 1.4)
     public_suffix (7.0.5)
     racc (1.8.1)
@@ -70,7 +70,7 @@ PLATFORMS
 
 DEPENDENCIES
   mechanize (~> 2.14)
-  nokogiri (~> 1.17.2)
+  nokogiri (~> 1.19.4)
   scraperwiki!
   sqlite3 (~> 2.2.0)
 
