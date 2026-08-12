@@ -54,10 +54,10 @@ GEM
     racc (1.8.1)
     rubyntlm (0.6.5)
       base64
-    sqlite3 (2.2.0)
+    sqlite3 (2.9.5)
       mini_portile2 (~> 2.8.0)
-    sqlite3 (2.2.0-arm64-darwin)
-    sqlite3 (2.2.0-x86_64-linux-gnu)
+    sqlite3 (2.9.5-arm64-darwin)
+    sqlite3 (2.9.5-x86_64-linux-gnu)
     sqlite_magic (0.0.6)
       sqlite3
     webrick (1.9.2)
@@ -72,7 +72,7 @@ DEPENDENCIES
   mechanize (~> 2.14)
   nokogiri (~> 1.17.2)
   scraperwiki!
-  sqlite3 (~> 2.2.0)
+  sqlite3 (~> 2.9.5)
 
 RUBY VERSION
    ruby 3.2.2p53
